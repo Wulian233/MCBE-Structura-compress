@@ -1,7 +1,9 @@
 # MCBE投影压缩工具
   
  ![请联网查看宣传图片](https://horrion.top/saomu/1.png)
+[![Github All Releases](https://img.shields.io/github/downloads/Wulian233/MCBE-Litematica-compress/total.svg)]()
  ## 怎么使用？
+ 
  这里有两种使用方式：**下载EXE程序**，方便快捷，下载既用，但是体积大，速度较慢；**.py源代码**，需要安装Python环境和需要的模块，较复杂，但一劳永逸，且速度快，体积是exe的100分之1！请自行斟酌使用。
 
  1. EXE方法：前往本项目的[Releases](https://github.com/Wulian233/MCBE-Litematica-compress/releases/)页面下载zip文件，解压使用。
