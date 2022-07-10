@@ -67,7 +67,7 @@ def tip():
     messagebox.showinfo("提示","不是，咱就是说，那个退出按钮干嘛用的？")
     root.quit()
 def git():
-    open('https://github.com/Wulian233/MCBE-Litematica-compress',new=1,autoraise=True)
+    open('https://github.com/Wulian233/MCBE-Structura-compress',new=1,autoraise=True)
 def bili():
     open('https://space.bilibili.com/449728222',new=1,autoraise=True)
 def qq():
